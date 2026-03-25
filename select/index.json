@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "base_track": "Kiss Plan",
+  "base_artist": "M!LK",
+  "createdAt": "2026-03-25T04:51:22.443125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kiss Plan",
+      "artist": "M!LK",
+      "has_synced": true,
+      "path": "select/01_Kiss_Plan_M!LK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/02_God's_Plan_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Five Year Plan",
+      "artist": "The Deslondes",
+      "has_synced": true,
+      "path": "select/03_Five_Year_Plan_The_Deslondes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Time to Make a Plan (Not Getting Younger)",
+      "artist": "Kurt Travis",
+      "has_synced": true,
+      "path": "select/04_Time_to_Make_a_Plan_(Not_Getting_Younger)_Kurt_Travis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/05_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/06_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Part of the Plan",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/07_Part_of_the_Plan_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Plan",
+      "artist": "Low",
+      "has_synced": true,
+      "path": "select/08_The_Plan_Low.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Without a Plan",
+      "artist": "Lusine",
+      "has_synced": true,
+      "path": "select/09_Without_a_Plan_Lusine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Plan",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/10_The_Plan_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Plan",
+      "artist": "Built to Spill",
+      "has_synced": false,
+      "path": "select/11_The_Plan_Built_to_Spill.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Plan",
+      "artist": "Wiz Khalifa feat. Juicy J",
+      "has_synced": false,
+      "path": "select/12_The_Plan_Wiz_Khalifa_feat._Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nothing Ever Goes To Plan",
+      "artist": "Danny Wilson",
+      "has_synced": false,
+      "path": "select/13_Nothing_Ever_Goes_To_Plan_Danny_Wilson.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Plan B",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/14_Plan_B_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Plan B",
+      "artist": "Huey Lewis and The News",
+      "has_synced": true,
+      "path": "select/15_Plan_B_Huey_Lewis_and_The_News.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Plan B - 2010 Remastered Version",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/16_Plan_B_-_2010_Remastered_Version_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Long Term Plan",
+      "artist": "Acid House Kings",
+      "has_synced": false,
+      "path": "select/17_A_Long_Term_Plan_Acid_House_Kings.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Paper Plan",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/18_Paper_Plan_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Plan B",
+      "artist": "AJ Tracey",
+      "has_synced": false,
+      "path": "select/19_Plan_B_AJ_Tracey.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Kiss Plan",
+      "artist": "M!LK",
+      "has_synced": true,
+      "path": "select/localdb_01_Kiss_Plan_M!LK.lrc",
+      "repo_name": "SzwpFnpK7ZI"
+    }
+  ]
+}
